@@ -1,0 +1,15 @@
+{
+  "name": "cheat-spelling-bee",
+  "description": "A convenient tool to help you cheat at the NYTimes spelling bee when you're out of words",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Remco van Bree <blikkie@gmail.com>",
+  "scripts": {
+    "compile-dictionary": "./compile-dictionary.js",
+    "find-words": "./find-words.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
