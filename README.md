@@ -1,6 +1,6 @@
 # New York Times Spelling Bee Cheat Toy
 
-This is a small (overly complex) tool that helps you cheat with the spelling be.
+This is a small (overly complex) tool that helps you cheat with the NYTimes spelling bee.
 
 ## Installation And Setup
 Clone this repo, run `yarn install`
